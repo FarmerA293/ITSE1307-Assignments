@@ -1,0 +1,13 @@
+// Andrew Farmer
+// ITSE 1307
+// Hello World!
+// beginner coding challenge
+
+# include "stdafx.h" ;
+# include <iostream> ;
+using namespace std;
+
+int main ()
+{
+    "Hello World!
+}
